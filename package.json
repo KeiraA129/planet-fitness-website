@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-todo-app",
+=======
+  "name": "planet-fitness-react",
+>>>>>>> 5bbb7a6ae83491af909db39f045ab5fcafa9003a
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +11,10 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "axios": "^1.10.0",
+=======
+>>>>>>> 5bbb7a6ae83491af909db39f045ab5fcafa9003a
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
@@ -38,6 +45,7 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@babel/preset-env": "^7.28.0",
     "@babel/preset-react": "^7.27.1",
     "babel-jest": "^30.0.4"
@@ -49,4 +57,8 @@
   ]
 }
 
+=======
+    "gh-pages": "^6.3.0"
+  }
+>>>>>>> 5bbb7a6ae83491af909db39f045ab5fcafa9003a
 }
