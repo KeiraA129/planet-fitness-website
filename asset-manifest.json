@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/planet-fitness-website/static/css/main.e6c13ad2.css",
+    "main.js": "/planet-fitness-website/static/js/main.38a3f714.js",
+    "static/js/453.dc318b66.chunk.js": "/planet-fitness-website/static/js/453.dc318b66.chunk.js",
+    "index.html": "/planet-fitness-website/index.html",
+    "main.e6c13ad2.css.map": "/planet-fitness-website/static/css/main.e6c13ad2.css.map",
+    "main.38a3f714.js.map": "/planet-fitness-website/static/js/main.38a3f714.js.map",
+    "453.dc318b66.chunk.js.map": "/planet-fitness-website/static/js/453.dc318b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.38a3f714.js"
+  ]
+}
